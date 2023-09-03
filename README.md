@@ -8,6 +8,8 @@ BATCH: DW65DW66
 
 DOMAIN : DATA SCIENCE
 
+DEMO VIDEO LINK :https://www.youtube.com/watch?v=YqmGzBSEX04
+
 LINKED IN URL :https://www.linkedin.com/in/srinivasan-j-61961928b/
 
 The application should have the following features:
