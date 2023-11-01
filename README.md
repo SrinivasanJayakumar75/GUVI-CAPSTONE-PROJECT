@@ -6,7 +6,7 @@ NAME : SRINIVASAN J
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO LINK :https://www.youtube.com/watch?v=8wgynUd5geY
+DEMO VIDEO LINK :https://www.linkedin.com/feed/update/urn:li:activity:7125454154382135297/
 
 LINKED IN URL :https://www.linkedin.com/in/srinivasan-j-61961928b/
 
