@@ -4,8 +4,6 @@ Problem Statement: The problem statement is to create a Streamlit application th
 
 NAME : SRINIVASAN J
 
-BATCH: DW65DW66
-
 DOMAIN : DATA SCIENCE
 
 DEMO VIDEO LINK :https://www.youtube.com/watch?v=8wgynUd5geY
